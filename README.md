@@ -1,3 +1,3 @@
 A Todo-List is a simple tool built with HTML, CSS, and JavaScript that helps users organize their tasks. It provides a user-friendly interface where users can add, delete, and mark tasks as complete. The Todo-List allows users to input tasks through a form and displays them in a list format. JavaScript enhances the functionality by enabling features such as updating the status of tasks and filtering tasks based on different criteria. It serves as a handy tool for managing and tracking tasks efficiently.
 
-Hosted Link: 
+Hosted Link: https://atulsanini7900.github.io/Todo-List/
